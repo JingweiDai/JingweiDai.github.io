@@ -2,7 +2,6 @@
 layout: page
 title: "Home"
 ---
-![](/assets/JingweiDaiPic.jpg =50x100)
 
 I am currently a graduate student in marketing at [CUHK Business School](https://www.bschool.cuhk.edu.hk/). I am interested in information systems, quantitative marketing, and applied economics. You can find my CV [here](https://drive.google.com/file/d/1P2ohtDo4jH8DBWChhW9Xys2WQNjoBYWR/view?usp=sharing).
 
