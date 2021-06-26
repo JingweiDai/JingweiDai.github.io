@@ -23,6 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:jingweidai@link.cuhk.edu.hk"}
   - {title: Github, icon: github, url: "https://github.com/jingweidai"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/jingweidai"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/jingwei-dai-107390182/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
