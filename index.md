@@ -11,5 +11,3 @@ I am currently an MPhil student in marketing at [CUHK Business School](https://w
 The topics that I am interested in include Economics of Information Systems, Sharing Economy, Innovation, and Digital Marketing. Methodologically, I am interested in employing causal inference, econometric methods, empirical IO, and applied machine learning to do research.
 
 When I am not working, I enjoy cycling, hiking, reading, volunteering, and accompanying my family members.
-
-I would apply to Ph.D. in information systems in 2021 fall.
