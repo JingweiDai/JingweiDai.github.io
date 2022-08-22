@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
- <img src="[assets/JingweiDaiPic2InPNGFormat.png]" width = "300" height = "200" alt="image" align=center />
+ <img src="[./assets/JingweiDaiPic2InPNGFormat.png]" width = "300" height = "200" alt="image" align=center />
  
  
 I am a PhD student in information systems management at [Carnegie Mellon University](https://www.cmu.edu/). Previously, I was an MPhil student in marketing at [CUHK Business School](https://www.bschool.cuhk.edu.hk/).
