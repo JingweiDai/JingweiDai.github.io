@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
-![iamge](https://github.com/JingweiDai/jingweidai.github.io/blob/main/assets/JingweiDaiPic1.jpg)
+![iamge](https://github.com/JingweiDai/jingweidai.github.io/blob/main/assets/JingweiDaiPic2InPNGFormat.png)
 
 I am a PhD student in information systems management at [Carnegie Mellon University](https://www.cmu.edu/). Previously, I was an MPhil student in marketing at [CUHK Business School](https://www.bschool.cuhk.edu.hk/).
 
