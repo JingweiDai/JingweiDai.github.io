@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
-![image](https://github.com/JingweiDai/jingweidai.github.io/blob/main/assets/JingweiDaiPic2InPNGFormat.png){:height="50%" width="50%"}
+![image](https://github.com/JingweiDai/jingweidai.github.io/blob/main/assets/JingweiDaiPic2InPNGFormat.png){:height="100px" width="400px"}
 
 I am a PhD student in information systems management at [Carnegie Mellon University](https://www.cmu.edu/). Previously, I was an MPhil student in marketing at [CUHK Business School](https://www.bschool.cuhk.edu.hk/).
 
