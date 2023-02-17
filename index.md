@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 ---
-
+![img](/assets/JingweiDaiPic3.jpg)
 
 Hi! I am a PhD student in information systems management at [Carnegie Mellon University](https://www.cmu.edu/). 
 
