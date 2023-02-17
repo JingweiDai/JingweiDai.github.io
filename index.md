@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 ---
-<img src="/assets/JingweiDaiPic3.jpg" width="200px" />
+<img src="/assets/JingweiDaiPic3.jpg" width="100px" />
 
 Hi! I am a PhD student in information systems management at [Carnegie Mellon University](https://www.cmu.edu/). 
 
