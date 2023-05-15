@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
-## Hi! I am a PhD student in information systems management at [Carnegie Mellon University](https://www.cmu.edu/).
+Hi! I am a PhD student in information systems management at [Carnegie Mellon University](https://www.cmu.edu/).
 
 <div style="display: flex; flex-direction: row;">
   <div style="margin-right: 20px;">
