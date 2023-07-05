@@ -10,3 +10,7 @@ Hi! I am a PhD student in information systems management at [Carnegie Mellon Uni
 When I am not working, I enjoy cycling, hiking, reading, volunteering, and doing pull-ups.
 
 Email: jingweid[at]andrew[dot]cmu[dot]edu
+
+Working Paper:
+
+Online-Offline Price Difference and Consumer Fairness Concerns: A Natural Experiment on the Food Delivery Platform, with Hui Li
