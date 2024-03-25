@@ -3,7 +3,6 @@ layout: page
 title: "Home"
 ---
 
-<img src="/assets/JingweiDaiPic4.jpg" width="200px" /> 
 
 Hi! I am a PhD student in information systems management at [Carnegie Mellon University](https://www.cmu.edu/).  My research interests include Economics of Information Systems, Digital Marketing, and Platform Economy. Methodologically, I am interested in employing causal inference, econometric methods, and machine learning to do research.
 
