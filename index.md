@@ -12,5 +12,5 @@ Email: jingweid[at]andrew[dot]cmu[dot]edu
 
 Working Paper:
 
-1. Online-Offline Price Difference and Consumer Fairness Concerns: A Natural Experiment on the Food Delivery Platform, with Hui Li
+1. Online-Offline Price Difference and Price Fairness Concerns: A Natural Experiment on the Food Delivery Platform, with Hui Li
 
